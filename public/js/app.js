@@ -1,4 +1,4 @@
-angular.module('officalFudge', [])
+angular.module('officalFudge', ['fudgeRoutes'])
 
 .controller('mainController', function() {
 
