@@ -20,4 +20,7 @@ angular.module('fudgeRoutes', ['ngRoute'])
 		});
 
 
+		// nice looking urls
+		$locationProvider.html5Mode(true);
+
 });
