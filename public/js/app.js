@@ -4,7 +4,7 @@ angular.module('officalFudge', [])
 
 	var vm = this;
 
-	vm.bigMessage = 'Official Fudge';
+	vm.bigMessage = 'Official Fudge is here.';
 })
 
 .controller('homeController', function() {
