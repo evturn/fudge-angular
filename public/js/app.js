@@ -19,7 +19,7 @@ angular.module('officalFudge', ['fudgeRoutes'])
 
 	var vm = this;
 
-	vm.message = 'A window into my life'
+	vm.message = 'A window into my life';
 
 })
 
@@ -27,6 +27,6 @@ angular.module('officalFudge', ['fudgeRoutes'])
 
 	var vm = this;
 
-	vm.message = 'Leave me a message and I will get back to you as soon as I can. Never.'
+	vm.message = 'Leave me a message and I will get back to you as soon as I can. Never.';
 
 });

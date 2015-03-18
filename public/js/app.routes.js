@@ -14,7 +14,7 @@ angular.module('fudgeRoutes', ['ngRoute'])
 			controllerAs : 'about'
 		})
 		.when('/contact', {
-			templateUrl	 : 'view/pages/contact.html',
+			templateUrl	 : 'views/pages/contact.html',
 			controller 	 : 'contactController',
 			controllerAs : 'contact'
 		});
